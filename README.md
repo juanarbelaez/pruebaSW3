@@ -1,2 +1,2 @@
 # pruebaSW3
-repositorio de prueba
+repositorio de prueba para proyecto de sw3
